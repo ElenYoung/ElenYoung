@@ -22,7 +22,7 @@
 
 *Quant funds value deep technical expertise. Here is my primary toolkit:*
 
-- **Languages:** `C++` (Low-latency/Modern C++), `Python` (Data Science), `SQL`
+- **Languages:** `C++` (Low-latency/Modern C++), `Python` (Data Science), `SQL`(ClickHouse)
 - **Libraries/Frameworks:** `Eigen`, `OpenMP`, `STL`,  `NumPy`, `Pandas`, `light-gbm`, `PyTorch`
 - **Infrastructure & Tools:** `Linux`, `Git`, `Docker`
 - **Math & Finance:** Stochastic Analysis, Time Series Analysis, Convex Optimization, Market Microstructure
@@ -33,11 +33,32 @@
 
 *Here is a brief overview of my industry experience in quantitative finance and software engineering:*
 
-- **[Company Name]** | *Quantitative Research Intern* | [Month, Year] – [Month, Year]
-  - *Briefly describe your impact (e.g., "Researched and implemented statistical arbitrage signals, improving Sharpe ratio by X%").*
-  - *Mention the tools used (e.g., Python, C++).*
-- **[Company Name]** | *Software Engineering Intern* | [Month, Year] – [Month, Year]
-  - *Highlight system optimizations (e.g., "Reduced latency in the order execution pipeline by 15% using modern C++ features").*
+**[Beijing Key Laboratory of Financial Artificial Intelligence]** | *Core Researcher* | Apr 2025 – Mar 2026
+
+- Built multi-agent LLM systems for banking operations, integrating internal data warehouses and external platforms; designed regulatory knowledge graphs, tool APIs, and fine-tuning QA datasets.
+
+- Developed [CUFEL-A](https://cufel.cufe.edu.cn/video-presentation), a multi-agent framework for automated A-share research report generation with a planning–writing architecture, web search tools, and prompt optimization.
+
+- Built [CUFEL-Q Arena](https://cufel.cufe.edu.cn/cufel-q), a multi-agent quantitative trading platform with multi-frequency financial data pipelines, NLP/TDA text indicators, and high-precision backtesting engines.
+
+- Developed physics-informed deep learning models for Tokamak nuclear fusion, combining TimeXer encoders, CNN/FNN decoders, and autoregressive forecasting.
+
+
+**[Minghuhui Private Investment Fund]** | *High-Frequency Quantitative Research Intern* | Aug 2024 – Jan 2025  
+  
+  - Built vectorized high-frequency backtesting engines in Python; accelerated intraday simulation via matrix operations and Dask parallelization.
+
+  - Constructed 100+ LOB and trade-flow factors using Python + ClickHouse; evaluated predictive power via IC/ICIR.
+
+  - Developed DeepLOB and LightGBM trading models for convertible bonds and BTCUSDT T0 strategies.
+
+**[Huatai Securities]** | *Quantitative Research Intern* | Aug 2023 – Apr 2024
+  
+  - Developed a Python backtesting framework for equity strategies with portfolio construction and IC/RankIC evaluation.
+
+  - Implemented analyst forecast surprise strategies for A-share equities and conducted empirical backtests.
+
+  - Built tools for exchange-traded option strategy analysis, including implied volatility estimation and Greeks evaluation.
 
 ---
 
@@ -45,30 +66,31 @@
 
 *Showcase 2-4 of your best repositories here. Quant HRs look for clean code, solid documentation, and rigorous testing.*
 
-#### 📈 1. [Alpha Signal Generator](link-to-repo)
-- **Description:** A robust backtesting framework for generating and evaluating cross-sectional equity signals.
-- **Impact:** Implemented vectorized operations using Pandas and NumPy, reducing backtest runtime from hours to minutes.
-- **Tech:** `Python`, `Pandas`, `Matplotlib`
+#### 📈 1. [GPFactor](https://github.com/ElenYoung/FactorSeries-1-GPFactor)
+- **Description:** Factor Research Series 1: Genetic Programming Factor Mining Algorithm implemented in C++.
+- **Tech:** `C++20`, `OpenMP`, `Eigen`
 
-#### ⚡ 2. [Low-Latency Order Book Engine](link-to-repo)
-- **Description:** A high-performance Limit Order Book (LOB) matching engine built for high-frequency trading simulations.
-- **Impact:** Achieved sub-microsecond matching latency leveraging cache-friendly data structures and memory pools.
-- **Tech:** `C++17`, `Google Test`
+#### ⚡ 2. [GeneralBacktest](https://github.com/ElenYoung/GeneralBacktest)
+- **Description:** A General Backtest Framework for Quantative Research.
+- **Tech:** `python`, `numpy`, `pandas`
+
+#### 📈 3. [PTree-Pruning-iTransformer-Strategy](https://github.com/ElenYoung/PTree-Pruning-iTransformer-Strategy)
+- **Description:** A ETF Strategy based on PTree data selection for stable performances.
+- **Tech:** `PTree`, `iTransformer`
 
 ---
 
 ### 🚧 Currently Working On
 
-- 🔬 **[Name of Ongoing Project]:** Deep diving into reinforcement learning for dynamic portfolio optimization.
-- 📚 **Reading:** *Advances in Financial Machine Learning* by Marcos López de Prado.
-- 🧠 **Exploring:** Kernel bypass networking (DPDK) and FPGA implementations for ultra-low latency trading.
+- 🔬 **[QuantMoE Model]:** Mixture of Experts DL Models for stocks trading with a specified optimization function.
+- 📚 **[Market Regimes Detector]:** Using Reinforcement Learning and Markov probability transition matrix to predict Market Regimes.
+- 🧠 **[Hybrid Data Factor Miner]:** Using multi-frequency trading data and nlp indicator to discover new factors.
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElenYoung&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Elen's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElenYoung&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Elen's GitHub Streak" width="48%" />
 </div>
 
