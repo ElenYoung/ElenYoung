@@ -20,8 +20,6 @@
 
 ### 📊 Tech Stack & Tools
 
-*Quant funds value deep technical expertise. Here is my primary toolkit:*
-
 - **Languages:** `C++` (Low-latency/Modern C++), `Python` (Data Science), `SQL`(ClickHouse)
 - **Libraries/Frameworks:** `Eigen`, `OpenMP`, `STL`,  `NumPy`, `Pandas`, `light-gbm`, `PyTorch`,`langchain`, `langgraph`
 - **Infrastructure & Tools:** `Linux`, `Git`, `Docker`
@@ -30,8 +28,6 @@
 ---
 
 ### 💼 Professional Experience (Internships)
-
-*Here is a brief overview of my industry experience in quantitative finance and software engineering:*
 
 **[Beijing Key Laboratory of Financial Artificial Intelligence]** | *Core Researcher* | Apr 2025 – Mar 2026
 
@@ -63,8 +59,6 @@
 ---
 
 ### 🚀 Featured Projects
-
-*Showcase 2-4 of your best repositories here. Quant HRs look for clean code, solid documentation, and rigorous testing.*
 
 #### 📈 1. [GPFactor](https://github.com/ElenYoung/FactorSeries-1-GPFactor)
 - **Description:** Factor Research Series 1: Genetic Programming Factor Mining Algorithm implemented in C++.
