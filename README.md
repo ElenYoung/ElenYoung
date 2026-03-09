@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Yilin Yang <img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="28"></h1>
+  <h1>Hi there, I'm Yilin Yang </h1>
   
   <p>
     <strong>Quantitative Researcher | High-Frequency Trading Enthusiast | Algorithm Developer | Agent Developer</strong>
