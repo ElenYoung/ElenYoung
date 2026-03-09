@@ -23,7 +23,7 @@
 *Quant funds value deep technical expertise. Here is my primary toolkit:*
 
 - **Languages:** `C++` (Low-latency/Modern C++), `Python` (Data Science), `SQL`(ClickHouse)
-- **Libraries/Frameworks:** `Eigen`, `OpenMP`, `STL`,  `NumPy`, `Pandas`, `light-gbm`, `PyTorch`
+- **Libraries/Frameworks:** `Eigen`, `OpenMP`, `STL`,  `NumPy`, `Pandas`, `light-gbm`, `PyTorch`,`langchain`, `langgraph`
 - **Infrastructure & Tools:** `Linux`, `Git`, `Docker`
 - **Math & Finance:** Stochastic Analysis, Time Series Analysis, Convex Optimization, Market Microstructure
 
