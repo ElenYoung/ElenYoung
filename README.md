@@ -11,8 +11,8 @@
 
   <p align="center">
     <a href="mailto:yang13515360252@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <!-- a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a-->
-    <!--a href="your-portfolio-or-blog-link"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a-->
+    <br>
+    <span style="font-size: 14px; color: #C9D1D9;">yang13515360252@163.com</span>
   </p>
 </div>
 
