@@ -27,13 +27,13 @@
 
 ---
 
-### 💼 Professional Experience (Internships)
+### 💼 Professional Experience 
 
 **[Beijing Key Laboratory of Financial Artificial Intelligence]** | *Core Researcher* | Apr 2025 – Mar 2026
 
-- Built multi-agent LLM systems for banking operations, integrating internal data warehouses and external platforms; designed regulatory knowledge graphs, tool APIs, and fine-tuning QA datasets.
+- Built multi-agent LLM systems for banking operations, integrating internal data warehouses and external platforms; designed regulatory knowledge graphs, tool APIs, and fine-tuning QA datasets; fixing vulnerabilities in dependencies detected by Fortify scan.
 
-- Developed [CUFEL-A](https://cufel.cufe.edu.cn/video-presentation), a multi-agent framework for automated A-share research report generation with a planning–writing architecture, web search tools, and prompt optimization.
+- Developed [CUFEL-A](https://cufel.cufe.edu.cn/video-presentation), a multi-agent framework for automated A-share research report generation with a paper-planning–architecture-report structure , web search tools, and prompt optimization.
 
 - Built [CUFEL-Q Arena](https://cufel.cufe.edu.cn/cufel-q), a multi-agent quantitative trading platform with multi-frequency financial data pipelines, NLP/TDA text indicators, and high-precision backtesting engines.
 
