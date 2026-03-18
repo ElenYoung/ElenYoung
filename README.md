@@ -64,13 +64,21 @@
 - **Description:** Factor Research Series 1: Genetic Programming Factor Mining Algorithm implemented in C++.
 - **Tech:** `C++20`, `OpenMP`, `Eigen`
 
-#### ⚡ 2. [GeneralBacktest](https://github.com/ElenYoung/GeneralBacktest)
+#### 📈 2. [MAS-FactorMiner](https://github.com/ElenYoung/FactorSeries-2-MASFactorMiner)
+- **Description:** Factor Research Series 2: LLM-Driven Multi-Agent System for Explainable Alpha Discovery.
+- **Tech:** `langchain`, `function call`
+
+#### ⚡ 3. [GeneralBacktest](https://github.com/ElenYoung/GeneralBacktest)
 - **Description:** A General Backtest Framework for Quantative Research.
 - **Tech:** `python`, `numpy`, `pandas`
 
-#### 📈 3. [PTree-Pruning-iTransformer-Strategy](https://github.com/ElenYoung/PTree-Pruning-iTransformer-Strategy)
+#### 📈 4. [PTree-Pruning-iTransformer-Strategy](https://github.com/ElenYoung/PTree-Pruning-iTransformer-Strategy)
 - **Description:** A ETF Strategy based on PTree data selection for stable performances.
 - **Tech:** `PTree`, `iTransformer`
+
+#### 📈 5. [Intraday Market Return Predictability in A-Shares](https://github.com/ElenYoung/alpha-zoo-predictability)
+- **Description:** This project explores the time-series predictability of the HS300 ETF by leveraging a "zoo" of 105 high-frequency characteristic-sorted portfolios.
+- **Tech:** `jump-diffusion decomposition`, `high-frequency trading`
 
 ---
 
