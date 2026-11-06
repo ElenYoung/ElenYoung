@@ -46,9 +46,6 @@
 - **Description:** A ETF Strategy based on PTree data selection for stable performances.
 - **Tech:** `PTree`, `iTransformer`
 
-#### 📈 5. [Intraday Market Return Predictability in A-Shares](https://github.com/ElenYoung/alpha-zoo-predictability)
-- **Description:** This project explores the time-series predictability of the HS300 ETF by leveraging a "zoo" of 105 high-frequency characteristic-sorted portfolios.
-- **Tech:** `jump-diffusion decomposition`, `high-frequency trading`
 
 ---
 
